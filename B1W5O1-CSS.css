@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body {
+	font-family: 'Roboto', sans-serif;
+
+}
+.gb {
+	line-height: 36px;
+}
+.a {
+	line-height: 32px;
+}
+
+.container {
+	width: 50%;
+	margin: 0 auto;
+}
+.lijstje {
+	line-height: 26px;
+}
+.Bereidingswijze {
+	line-height: 32px;
+}
+.lijstje2 {
+	line-height: 26px;
+}
+.TipBox{
+	border:  #def6ed solid 4px;
+	background-color: #def6ed ;
+	width: 900px;
+	padding: 5px;
+}
+.Voorg:hover {
+	color: red;
+	text-decoration: none;
+}
+
+
